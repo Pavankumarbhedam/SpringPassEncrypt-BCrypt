@@ -8,7 +8,6 @@ This project is a **Spring Boot web application** that provides **secure user au
 ## 🚀 Features  
 ✅ User registration & login with encrypted passwords  
 ✅ **Bcrypt hashing** for secure password storage  
-✅ **Spring Security** for authentication & authorization  
 ✅ **MySQL database** for user storage  
 ✅ RESTful API endpoints for authentication  
 
